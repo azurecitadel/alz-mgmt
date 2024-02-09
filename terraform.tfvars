@@ -1,6 +1,0 @@
-default_location             = "uksouth"
-root_id                      = "alz"
-root_name                    = "Azure-Landing-Zones"
-subscription_id_connectivity = "686c1190-b8f0-42a9-8acd-3e456bff0842"
-subscription_id_identity     = "686c1190-b8f0-42a9-8acd-3e456bff0842"
-subscription_id_management   = "686c1190-b8f0-42a9-8acd-3e456bff0842"
